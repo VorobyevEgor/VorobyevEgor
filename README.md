@@ -3,10 +3,10 @@
 <h3 align="left">A passionate Data Scientist and Analyst</h3>
 
 
-- 📫 How to reach me
+- 📫 How to reach me soier2404@gmail.com
     <br/><br/>
   <div id="badges">
-    <a href="soier2404@gmail.com/">
+    <a href="soier2404@gmail.com">
       <img src="https://cdn.icon-icons.com/icons2/652/PNG/512/gmail_icon-icons.com_59877.png" width="50" height="50" alt="gmail.com"/>
     </a>
     <a href="https://t.me/soier24">
@@ -14,7 +14,6 @@
     </a>
   </div>
   
-
 ### Languages and Tools:
 - 💾 **Databases**:
   
