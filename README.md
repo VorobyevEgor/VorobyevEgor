@@ -1,6 +1,11 @@
 ![image](https://github.com/VorobyevEgor/VorobyevEgor/assets/148513467/ae722171-739b-41ab-bfe3-68d30c51b141)
 
-<h3 align="left">A passionate Data Scientist and Analyst</h3>
+<h3 align="center">Passionate data scientist and analyst on weekdays 🤓</h3> 
+<h3 align="center">traveler and movie lover on weekends 😎</h3>
+<h3 align="center">~~~</h3> 
+
+<h3 align="left">Information is the main value of our time, but without a good Analyst it is worthless</h3>
+<h3 align="right">— <i>Jason Statham</i> </h3>
 
 
 - 📫 How to reach me soier2404@gmail.com
