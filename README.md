@@ -4,9 +4,15 @@
 
 
 - 📫 How to reach me
-  
-  <img src="https://github.com/VorobyevEgor/VorobyevEgor/assets/148513467/9de906c6-cde4-4aaf-9eb3-9d236b2f47cc" width="50" height="50" alt="soier2404@gmail.com"/>
-  <img src="https://github.com/VorobyevEgor/VorobyevEgor/assets/148513467/942c9018-78b9-4df5-bb95-fac87535ab17" width="50" height="50" alt="https://t.me/soier24"/>
+    <br/><br/>
+  <div id="badges">
+    <a href="soier2404@gmail.com/">
+      <img src="https://github.com/VorobyevEgor/VorobyevEgor/assets/148513467/9de906c6-cde4-4aaf-9eb3-9d236b2f47cc" width="50" height="50" alt="gmail.com"/>
+    </a>
+    <a href="https://t.me/soier24">
+      <img src="https://github.com/VorobyevEgor/VorobyevEgor/assets/148513467/942c9018-78b9-4df5-bb95-fac87535ab17" width="50" height="50" alt="telegram"/>
+    </a>
+  </div>
 
 ### Languages and Tools:
 - 💾 **Databases**:
