@@ -34,6 +34,9 @@
 <img src="https://github.com/VorobyevEgor/VorobyevEgor/assets/148513467/1e68a7a0-bbfa-42fe-8592-8b0e790f09b5" width="50" height="50" alt="Keras"/>
 <img src="https://github.com/VorobyevEgor/VorobyevEgor/assets/148513467/a970636f-f919-4b47-a3eb-73667c87e830" width="50" height="50" alt="OpenCV"/>
 
+
+
+
 ### My repositories
 | Repositories | Description |
 | :----------------------: | :----------------------: |
