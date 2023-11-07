@@ -11,9 +11,6 @@
 - 📫 How to reach me soier2404@gmail.com
     <br/><br/>
   <div id="badges">
-    <a href="soier2404@gmail.com">
-      <img src="https://cdn.icon-icons.com/icons2/652/PNG/512/gmail_icon-icons.com_59877.png" width="50" height="50" alt="gmail.com"/>
-    </a>
     <a href="https://t.me/soier24">
       <img src="https://i.pinimg.com/564x/b5/d4/96/b5d4964918a23f39b417cd8c18fc45f8.jpg" width="50" height="50" alt="telegram"/>
     </a>
