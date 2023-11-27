@@ -1,4 +1,4 @@
-### Hi there, I'm Vorobyev Egor
+# Hi there, I'm Vorobyev Egor
 
 <h5 align="left">Passionate data scientist and analyst on weekdays 🤓 traveler and movie lover on weekends 😎</h5>
 <h5 align="left">~~~</h5> 
@@ -15,7 +15,7 @@
     </a>
   </div>
   
-### Languages and Tools:
+#### Languages and Tools:
 - 💾 **Databases**:
   
 <img src="https://github.com/VorobyevEgor/VorobyevEgor/assets/148513467/2a8eef8d-1afe-43af-bbaf-9a945e86df81" width="50" height="50" alt="Postgres"/>
@@ -36,7 +36,7 @@
 
 
 
-### My repositories
+#### My repositories
 | Repositories | Description |
 | :----------------------: | :----------------------: |
 |[yandex_practicum](https://github.com/VorobyevEgor/yandex_practicum/tree/main) | Projects completed on the Yandex Practicum |
