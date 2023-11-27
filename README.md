@@ -1,10 +1,10 @@
 # Hi there, I'm Vorobyev Egor
 
-<h5 align="left">Passionate data scientist and analyst on weekdays 🤓 traveler and movie lover on weekends 😎</h5>
-<h5 align="left">~~~</h5> 
+<h4 align="left">Passionate data scientist and analyst on weekdays 🤓 traveler and movie lover on weekends 😎</h4>
+<h4 align="left">~~~</h4> 
 
-<h5 align="left">Information is the main value of our time, but without a good Analyst it is worthless</h5>
-<h5 align="right">— <i>Jason Statham</i> </h5>
+<h4 align="left">Information is the main value of our time, but without a good Analyst it is worthless</h4>
+<h4 align="right">— <i>Jason Statham</i> </h4>
 
 
 - 📫 How to reach me soier2404@gmail.com
