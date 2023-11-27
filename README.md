@@ -35,13 +35,6 @@
 
 
 
-
-#### My repositories
-| Repositories | Description |
-| :----------------------: | :----------------------: |
-|[yandex_practicum](https://github.com/VorobyevEgor/yandex_practicum/tree/main) | Projects completed on the Yandex Practicum |
-
-
 <!---
 VorobyevEgor/VorobyevEgor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
