@@ -1,14 +1,10 @@
-![image](https://github.com/VorobyevEgor/VorobyevEgor/assets/148513467/ae722171-739b-41ab-bfe3-68d30c51b141)
+### Всем привет!
 
-<h3 align="center">Passionate data scientist and analyst on weekdays 🤓</h3> 
-<h3 align="center">traveler and movie lover on weekends 😎</h3>
-<h3 align="center">~~~</h3> 
-
-<h3 align="left">Information is the main value of our time, but without a good Analyst it is worthless</h3>
-<h3 align="right">— <i>Jason Statham</i> </h3>
+### Меня зовут Воробьев Егор, 
+и я недавно окончил курсы «Яндекс. Практикум» по направлению «Специалист по Data Science», при этом имею высшее инженерное образование и экономической опыт в банковской и коммерческой сферах. Дружу с цифрами, понимаю линейную алгебру, статистику и теорию вероятности 
 
 
-- 📫 How to reach me soier2404@gmail.com
+- 📫 Связаться со мной можно: soier2404@gmail.com
     <br/><br/>
   <div id="badges">
     <a href="https://t.me/soier24">
@@ -16,7 +12,7 @@
     </a>
   </div>
   
-### Languages and Tools:
+### Языки и инструменты:
 - 💾 **Databases**:
   
 <img src="https://github.com/VorobyevEgor/VorobyevEgor/assets/148513467/2a8eef8d-1afe-43af-bbaf-9a945e86df81" width="50" height="50" alt="Postgres"/>
@@ -35,12 +31,6 @@
 <img src="https://github.com/VorobyevEgor/VorobyevEgor/assets/148513467/a970636f-f919-4b47-a3eb-73667c87e830" width="50" height="50" alt="OpenCV"/>
 
 
-
-
-### My repositories
-| Repositories | Description |
-| :----------------------: | :----------------------: |
-|[yandex_practicum](https://github.com/VorobyevEgor/yandex_practicum/tree/main) | Projects completed on the Yandex Practicum |
 
 
 <!---
